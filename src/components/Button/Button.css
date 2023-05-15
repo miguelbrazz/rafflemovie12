@@ -1,0 +1,36 @@
+.button {
+    background: transparent;
+    border: none;
+    cursor: pointer;
+    color: #fff;
+}
+
+.raffle-button {
+    margin-top: 10px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    background-color: #D6A62D;
+    padding: 10px;
+    width: 100%;
+    max-width: 274px;
+    border-radius: 30px;
+    transition: 200ms all ease-in-out;
+}
+
+.raffle-button:hover {
+    background-color: #b48100;
+    color: #fff;
+}
+
+.add-button {
+    font-size: 2.5rem;
+    color: var(--specialtext-color);
+}
+
+.navlink:hover {
+    color: var(--specialtext-color);
+}
+
+.start-button:hover {
+    color: #b48100;
+}

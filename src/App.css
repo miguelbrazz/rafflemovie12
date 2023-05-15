@@ -1,0 +1,12 @@
+.App {
+  color: var(--text-color);
+  text-shadow: 2px 2px 2px var(--shadowtext-color);
+}
+
+.container {
+  padding-left: 120px;
+  padding-right: 120px;
+  max-width: 1300px;
+  margin-left: auto;
+  margin-right: auto;
+}

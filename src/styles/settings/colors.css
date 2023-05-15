@@ -1,0 +1,24 @@
+
+:root {
+    --primary-color: #5A4AF4;
+    --secondary-color: #1EA5FC;
+    --tertary-color: #B66DFF;
+    --success-color: #05CE91;
+    --error-color: #FF6161;
+    --warning-color: #FFAD49;
+    --black-color: #20283E;
+    --grey-color: #121829;
+    --white-color: #FFFFFF;
+    --text-color: #EBEEF5;
+    --subtext-color: #8E95A9;
+    --specialtext-color: #9C92F8;
+    --shadowtext-color: rgba(0, 0, 0, 0.1);
+    --hovertext-color: #ebeef5d3;
+    --raffle-color: #1a213356;
+    --border-color: #2a2f3ad2;
+    --button-color: #B66DFF;
+    --hover-color: #9933ff;
+    --vote-color: rgba(0, 0, 0, 0.65);
+    --background-color: rgba(0, 0, 0, 0.1);
+    --boxshadow-color: rgba(0, 0, 0, 0.5);
+}

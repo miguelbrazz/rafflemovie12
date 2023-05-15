@@ -1,0 +1,22 @@
+.home {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.main {
+    margin: auto;
+}
+
+.home-message {
+    margin-left: 5px;
+    min-width: 200px;
+    max-width: 850px;
+    width: 100%;
+    font-size: 1.5rem;
+}
+  
+  
