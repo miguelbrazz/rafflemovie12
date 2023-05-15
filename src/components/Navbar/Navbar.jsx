@@ -11,13 +11,13 @@ const Navbar = () => {
         <nav className="nav">
             <div className='navbar container'>
                 <div className='logo'>
-                    <Button component="button" onClick={() => navigate('/raffle-movies-website/')}>
+                    <Button component="button" onClick={() => navigate('/rafflemovie12/')}>
                     </Button>
                 </div>
                 <div className="menu-container">
                     <ul className='menu'>
                         <li>
-                            <Button component="button" className="navlink" onClick={() => navigate('/raffle-movies-website/suggest')}>
+                            <Button component="button" className="navlink" onClick={() => navigate('/rafflemovie12/suggest')}>
                             </Button>
                         </li>
                     </ul>

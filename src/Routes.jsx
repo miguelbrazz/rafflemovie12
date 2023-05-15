@@ -4,7 +4,7 @@ import Home from "./pages/Home/Home";
 const MainRoutes = () => {
     return ( 
         <Routes>
-            <Route path="/raffle-movies-website/" element={<Home/>}/>
+            <Route path="/rafflemovie12/" element={<Home/>}/>
         </Routes>
      );
 }
