@@ -77,7 +77,7 @@ const Raffle = () => {
             } else {
                 setResponse({
                     type: 'error',
-                    message: 'You need to have 2 or more items on your list.'
+                    message: 'You need to have 2 or more movies.'
                 })
             }
         })
